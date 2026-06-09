@@ -1,0 +1,60 @@
+RIGHT ANGLE TRIANGLE - ROW
+----------------------
+1
+22
+333
+4444
+55555
+RIGHT ANGLE TRIANGLE - COL
+----------------------
+
+1
+12
+123
+1234
+12345
+INVERSE RIGHT ANGLE TRIANGLE - ROW
+----------------------
+55555
+4444
+333
+22
+1
+INVERSE RIGHT ANGLE TRIANGLE - COL
+----------------------
+12345
+1234
+123
+12
+1
+
+LEFT ANGLE TRIANGLE - ROW
+----------------------
+     1
+    22
+   333
+  4444
+ 55555
+LEFT ANGLE TRIANGLE - COL
+----------------------
+      
+     1
+    12
+   123
+  1234
+ 12345
+INVERSE LEFT ANGLE TRIANGLE - ROW
+----------------------
+55555
+ 4444
+  333
+   22
+    1
+INVERSE LEFT ANGLE TRIANGLE - COL
+----------------------
+12345
+ 1234
+  123
+   12
+    1
+     

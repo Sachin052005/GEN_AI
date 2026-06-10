@@ -1,0 +1,160 @@
+STAR RIGHT ANGLE TRIANGLE
+----------------------
+*
+**
+***
+****
+*****
+STAR INVERSE RIGHT ANGLE TRIANGLE
+----------------------
+*****
+****
+***
+**
+*
+STAR LEFT ANGLE TRIANGLE
+----------------------
+    *
+   **
+  ***
+ ****
+*****
+STAR INVERSE LEFT ANGLE TRIANGLE
+----------------------
+*****
+ ****
+  ***
+   **
+    *
+PYRAMID TRIANGLE
+----------------------
+     
+    * 
+   * * 
+  * * * 
+ * * * * 
+INVERSE PYRAMID TRIANGLE
+----------------------
+* * * * 
+ * * * 
+  * * 
+   * 
+    
+LOWER RIGHT ANGLE TRIANGLE - row
+----------------------
+a
+bb
+ccc
+dddd
+eeeee
+LOWER RIGHT ANGLE TRIANGLE - col
+----------------------
+
+a
+ab
+abc
+abcd
+INVERSE LOWER RIGHT ANGLE TRIANGLE - row
+----------------------
+eeeee
+dddd
+ccc
+bb
+a
+INVERSE LOWER RIGHT ANGLE TRIANGLE - col
+----------------------
+abcd
+abc
+ab
+a
+
+UPPER LEFT ANGLE TRIANGLE - row
+----------------------
+    A
+   BB
+  CCC
+ DDDD
+EEEEE
+UPPER LEFT ANGLE TRIANGLE - col
+----------------------
+     
+    A
+   AB
+  ABC
+ ABCD
+ABCDE
+INVERSE UPPER LEFT ANGLE TRIANGLE - row
+----------------------
+EEEEE
+ DDDD
+  CCC
+   BB
+    A
+INVERSE UPPER LEFT ANGLE TRIANGLE - col
+----------------------
+ABCD
+ ABC
+  AB
+   A
+    
+PYRAMID - row
+----------------------
+    1 
+   2 2 
+  3 3 3 
+ 4 4 4 4 
+5 5 5 5 5 
+pyramid - col
+----------------------
+     
+    1 
+   1 2 
+  1 2 3 
+ 1 2 3 4 
+1 2 3 4 5 
+INVERSE PYRAMID - row
+----------------------
+5 5 5 5 5 
+ 4 4 4 4 
+  3 3 3 
+   2 2 
+    1 
+INVERSE PYRAMID - col
+----------------------
+1 2 3 4 
+ 1 2 3 
+  1 2 
+   1 
+    
+NAME LEFT ANGLE TRAINGLE - row
+----------------------
+s
+aa
+ccc
+hhhh
+iiiii
+nnnnnn
+INVERSE NAME LEFT ANGLE TRAINGLE - row
+----------------------
+nnnnnn
+iiiii
+hhhh
+ccc
+aa
+s
+NAME RIGHT ANGLE TRAINGLE - COL
+----------------------
+     s
+    sa
+   sac
+  sach
+ sachi
+sachin
+NAME RIGHT ANGLE TRAINGLE - COL
+----------------------
+nnnnnn
+ iiiii
+  hhhh
+   ccc
+    aa
+     s
